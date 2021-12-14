@@ -1,7 +1,7 @@
 name: flutter_counter_pack
-description: A new Flutter package project.
+description: A new Flutter package package for customized counter with Getx controller.
 version: 0.0.1
-homepage: null
+homepage: https://github.com/xaakib/flutter_counter_pack.git
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
